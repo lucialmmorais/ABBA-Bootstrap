@@ -1,0 +1,72 @@
+button.carousel-control-next {
+    background-color: #383e44;
+}
+
+button.carousel-control-prev {
+    background-color: #383e44;
+}
+
+ol.breadcrumb {
+    padding: 5px 15px; 
+    font-size: 16px;
+}
+
+h2 {
+    padding: 40px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 60px;
+}
+
+.img-thumbnail {
+    width: 100%;
+}
+
+span {
+    font-style: italic;
+    font-size: 22px;
+}
+
+p {
+    font-size: 20px;
+    padding: 10px 5px;
+}
+
+.mais_sobre {
+    padding: 15px;
+}
+
+#album-pic {
+    padding: 20px;
+    width: 110%;
+}
+
+.mb-3 {
+    padding: 10px;
+}
+
+.redes-sociais {
+    padding: 60px 10px;
+    text-align: center;
+}
+
+.redes-sociais a {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    padding: 10px;
+    text-align: center;
+}
+
+.redes-sociais a:hover{
+    font-size: 30px;
+}
+
+.logofooter {
+    padding: 40px;
+    text-align: center;
+}
+
+.subscreve {
+    padding: 50px 10px;
+    text-align: center; 
+}
